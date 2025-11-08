@@ -3,6 +3,11 @@
 This repository provides a full-body teleoperation system that combines reinforcement learning (RL) for leg control with inverse kinematics (IK) for upper-body motion.  
 The implementation is inspired by the paper *Homie: Whole-body Teleoperation for Humanoids*.
 
+## 🧩 Demo
+
+![Demo](https://github.com/user-attachments/assets/2c2f80c0-7ed7-4cab-882a-3f150e35b139)
+
+
 ---
 
 ## Overview
