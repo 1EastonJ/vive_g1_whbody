@@ -1,6 +1,6 @@
 # Mink_RL: VR Whole-Body Teleoperation Framework
 
-This repository provides a full-body teleoperation system that combines reinforcement learning (RL) for leg control with inverse kinematics (IK) for upper-body motion. Using Vive VR devices.
+This repository provides a whole-body teleoperation system that combines reinforcement learning (RL) for leg control with inverse kinematics (IK) for upper-body motion. Using Vive VR devices.
 The implementation is inspired by *Mink* and *Homie: Whole-body Teleoperation for Humanoids*.
 
 ## 🎥 Demo
