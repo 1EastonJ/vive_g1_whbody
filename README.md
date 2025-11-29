@@ -5,7 +5,7 @@ The implementation is inspired by *Mink* and *Homie: Whole-body Teleoperation fo
 
 ## 🎥 Demo
 
-<video src="https://github.com/user-attachments/assets/2c2f80c0-7ed7-4cab-882a-3f150e35b139" controls="controls" width="700">
+<video src="https://github.com/user-attachments/assets/e115aee3-0f00-4c61-a459-3ce25ba8174f" controls="controls" width="700">
   Your browser does not support the video tag.
 </video>
 
